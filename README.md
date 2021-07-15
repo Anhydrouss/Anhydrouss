@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anhydrouss
 - 👀 I’m interested in AI, blockchain and cryptocurrency
-- 🌱 I’m currently learning how to code and exploring automated systems
+- 🌱 I’m currently learning how to code better and exploring automated systems
 - 💞️ I’m looking to collaborate on AI and blockchain projects 
 - 📫 How to reach me at anhy.nguyen@yahoo.com.au
 
