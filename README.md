@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Anhydrouss
-- 👀 I’m interested in AI, blockchain and cryptocurrency
-- 🌱 I’m currently learning how to code better and exploring automated systems
-- 💞️ I’m looking to collaborate on AI and blockchain projects 
-- 📫 How to reach me at anhy.nguyen@yahoo.com.au
+- 👀 I am interested in AI, blockchain and cryptocurrency
+- 🌱 I am working towards mastering ML and exploring various automated systems
+- 💞️ I am looking to collaborate on AI and blockchain related projects 
+
 
 <!---
 Anhydrouss/Anhydrouss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
