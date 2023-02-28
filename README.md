@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anhydrouss
 - 👀 I am looking to collaborate on AI and blockchain related projects
-- 🌱 I am working towards mastering ML and exploring automated systems
+- 🌱 I am working towards mastering ML and automated systems
 
 
 
