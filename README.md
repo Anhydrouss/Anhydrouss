@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anhydrouss
-- 🌱 I am working towards mastering AI, in particular ML and automation.
+- 🌱 I am working towards mastering AI, in particular ML and systems automation.
 
 
 
