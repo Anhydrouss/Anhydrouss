@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Anhydrouss
-- 🌱 I am interested in AI, in particular ML and automation.
+- 🌱 I am interested in AI and automation, in particular ML and agentic workflow.
 
 
 
